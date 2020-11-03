@@ -1,0 +1,7 @@
+sample_a,sample_b,n,shared_hets,hets_a,ibs2,rel,hets_b,ibs0,pedigree_parents,pedigree_relatedness,predicted_parents,parent_error,sample_duplication_error,rel_difference
+Y09859865,Y09802026,6565,1291,2563,4024,0.4943,2543,17,True,0.5,True,False,False,0.005702
+Y09859865,Y09802055,6565,1271,2563,3954,0.4826,2573,17,True,0.5,True,False,False,0.01736
+Y09859865,Y09802058,6565,919,2563,2764,-0.01131,2602,474,False,0.25,False,False,False,0.2613
+Y09802026,Y09802055,6565,914,2543,2809,-0.008651,2573,468,False,0,False,False,False,0.008651
+Y09802026,Y09802058,6565,973,2543,2857,-0.0177,2602,509,False,0,False,False,False,0.0177
+Y09802055,Y09802058,6565,957,2573,2849,0.01827,2602,455,True,0.5,False,True,False,0.4817

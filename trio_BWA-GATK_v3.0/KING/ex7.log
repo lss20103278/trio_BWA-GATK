@@ -1,0 +1,25 @@
+PLINK v2.00a2LM 64-bit Intel (28 Oct 2018)
+Options in effect:
+  --allow-extra-chr
+  --make-bed
+  --out ex7
+  --vcf test7.vcf
+
+Hostname: BP10
+Working directory: /DATA/sslyu/Project/Genetics_children_hospital/KING
+Start time: Thu Feb 21 10:34:49 2019
+
+Random number seed: 1550716489
+515697 MiB RAM detected; reserving 257848 MiB for main workspace.
+Using up to 56 threads (change this with --threads).
+--vcf: 97361 variants scanned.
+--vcf: ex7-temporary.pgen + ex7-temporary.pvar + ex7-temporary.psam written.
+4 samples (0 females, 0 males, 4 ambiguous; 4 founders) loaded from
+ex7-temporary.psam.
+97361 variants loaded from ex7-temporary.pvar.
+Note: No phenotype data present.
+Writing ex7.fam ... done.
+Writing ex7.bim ... done.
+Writing ex7.bed ... done.
+
+End time: Thu Feb 21 10:34:52 2019

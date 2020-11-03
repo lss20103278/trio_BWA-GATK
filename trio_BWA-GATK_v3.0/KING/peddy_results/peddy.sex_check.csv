@@ -1,0 +1,5 @@
+error,het_count,het_ratio,hom_alt_count,hom_ref_count,ped_sex,predicted_sex,sample_id
+False,95,0.1309,726,627,male,male,Y09859865
+False,96,0.1278,751,610,male,male,Y09802026
+False,615,1.263,487,379,female,female,Y09802055
+False,90,0.116,776,585,male,male,Y09802058

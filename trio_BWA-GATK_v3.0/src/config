@@ -1,0 +1,11 @@
+-sn	儿童遗传病（交大附属儿医）分析任务单_111_T086V4.xlsx
+-panel	T086V4
+-filtmode	vqsr
+-rawdir	/DATA/sslyu/rawdata/B2LJ19346-19416G/
+-md5	/DATA/sslyu/rawdata/B2LJ19346-19416G/B2LJ19346-19416G-md5.txt	
+-R1	R1.fastq.gz	
+-R2	R2.fastq.gz
+-outdir	/anaData/anaData004/children_hos_genetic/rawdata/2019/T086V4/
+-analysis_data	the absolute path of the analysis data of the rawdata
+-redo	no
+-software	sentieon/gatk4
