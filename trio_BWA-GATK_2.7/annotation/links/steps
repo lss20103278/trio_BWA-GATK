@@ -1,0 +1,18 @@
+#convert_annote:
+create new !0/0 gtinfo
+
+python convert_annote.py $i
+
+#annote.sh
+sh annote.sh
+
+#combine
+python combine.py
+
+
+#score
+python score_re.py
+
+#an_flt
+python annotation_filt_ver2.3.py [...]
+
