@@ -1,4 +1,0 @@
-18N0444.R1.fastq
-18N0444.R2.fastq
-18N0446.R1.fastq
-18N0446.R2.fastq
